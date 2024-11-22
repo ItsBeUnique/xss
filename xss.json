@@ -1,8 +1,8 @@
 {
-    "url": "https://m0x0101.github.io/lol/test.yaml",
+    "url": "https://github.com/ItsBeUnique/xss/blob/main/xss.yaml",
     "urls": [
         {
-            "url": "https://m0x0101.github.io/lol/test.yaml",
+            "url": "https://github.com/ItsBeUnique/xss/blob/main/xss.yaml",
             "name": "Foo"
         }
     ]
